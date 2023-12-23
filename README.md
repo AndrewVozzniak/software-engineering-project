@@ -23,13 +23,13 @@
 1. Клонуйте репозиторій:
 
    ```bash
-   git clone https://github.com/yourusername/notepad.git
+   git clone https://github.com/AndrewVozzniak/software-engineering-project.git
    ```
 
 2. Перейдіть в папку проекту:
 
    ```bash
-   cd notepad
+   cd software-engineering-project
    ```
 
 3. Встановіть залежності:
